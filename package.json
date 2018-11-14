@@ -1,0 +1,26 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "tutorial sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amishshah7/typescript-tutorial.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Amish shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amishshah7/typescript-tutorial/issues"
+  },
+  "homepage": "https://github.com/amishshah7/typescript-tutorial#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
