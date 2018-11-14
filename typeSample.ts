@@ -1,3 +1,5 @@
+// this is s sample of how would you create a type based function and props
+
 type BankAccount = { money: number, deposit: (val: number) => void };
 
 let bankAccount: BankAccount = {

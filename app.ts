@@ -1,3 +1,5 @@
+//if commented lines are uncommented then tsc compile will fail
+
 // string
 let myName: string = 'Max';
 // myName = 28;
