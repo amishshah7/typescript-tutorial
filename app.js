@@ -1,4 +1,5 @@
 "use strict";
+//if commented lines are uncommented then tsc compile will fail
 // string
 var myName = 'Max';
 // myName = 28;
