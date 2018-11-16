@@ -22,5 +22,8 @@
   "homepage": "https://github.com/amishshah7/typescript-tutorial#readme",
   "devDependencies": {
     "lite-server": "^2.4.0"
+  },
+  "dependencies": {
+    "systemjs": "^0.19.36"
   }
 }
